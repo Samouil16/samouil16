@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- HEADER BANNER WITH TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;Full-Stack+Software+Developer;Building+Modern+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-<!--
-**Samouil16/samouil16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<!-- ABOUT ME SECTION -->
+<h2 align="center">⚡ About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const developer = {
+    name: "Samouil Pratzioti",
+    role: "Software Developer",
+    location: "Cyprus 🇨🇾",
+    code: ["TypeScript", "JavaScript", "Python", "SQL"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["FastAPI", "Node.js", "Express"],
+        database: ["PostgreSQL", "Supabase"],
+        devops: ["Docker", "Nginx", "Linux", "Cloudflare"]
+    },
+    currentFocus: "Building scalable web apps & real-time tools",
+    funFact: "I turn coffee into clean code and green GitHub dots ☕"
+};
