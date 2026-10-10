@@ -23,6 +23,7 @@ const developer = {
     currentFocus: "Building scalable web apps & real-time tools",
     funFact: "I turn coffee into clean code and green GitHub dots ☕"
 };
+```
 
 <div align="center">
   <picture>
