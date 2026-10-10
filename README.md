@@ -5,6 +5,13 @@
 
 <br />
 
+###
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=samouil16&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="languages graph"  />
+</div>
+
+
 <!-- ABOUT ME SECTION -->
 
 <h3 align="center">📌 Profile Overview</h3>
