@@ -1,6 +1,6 @@
 <!-- HEADER BANNER WITH TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;Full-Stack+Software+Developer;Building+Modern+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;Software+Developer;Building+Modern+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <br />
